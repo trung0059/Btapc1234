@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<employee>
+    <fname>A</fname>
+    <lname>Nguyễn Văn</lname>
+    <city>Hà Nội</city>
+    <expertise name="sql"/>
+    <expertise name="python"/>
+    <expertise name="testing"/>
+    <expertise name="business"/>
+</employee>

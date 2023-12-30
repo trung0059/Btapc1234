@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<library>
+    <book category="Lập trình">
+        <title lang="vn">Lập trình R</title>
+        <author>Nguyễn Tuấn</author>
+        <year>2020</year>
+        <price currency="VND">200.000</price>
+    </book>
+    <book category="web" cover = >
+        <title lang="en">Learning XML</title>
+        <author>Erik T.Ray</author>
+        <year>2003</year>
+        <price currency="USD">39.95</price>
+    </book>
+<book category="Lập trình">
+    z
+    </book>
+</library>

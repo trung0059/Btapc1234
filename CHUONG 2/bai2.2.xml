@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding ="UTF-8"?>
+<ds_sinhvien>
+    <sinhvien>
+        <masinhvien>123456</masinhvien>
+        <tensv>Pham Thi B</tensv>
+        <namsinh>2004</namsinh>
+        <lop>DHKL16A2HN<lop>
+        <gioitinh></gioitinh>
+    </sinhvien>
+</ds-sinhvien>
